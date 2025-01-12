@@ -194,7 +194,7 @@ Error generating stack: `+i.message+`
     margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 40px;
     img {
       width: auto;
       height: 30px;
